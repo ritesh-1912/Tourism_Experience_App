@@ -1,0 +1,15 @@
+{
+    "Regression": {
+        "Model": "Ridge Regression",
+        "R2": 0.7456688044840598,
+        "RMSE": 0.47655248637626163,
+        "MAE": 0.28579703017874386
+    },
+    "Classification": {
+        "Model": "Gradient Boosting",
+        "Accuracy": 0.9990557129367328,
+        "Precision": 0.9990590441587117,
+        "Recall": 0.9990557129367328,
+        "F1": 0.9990561383350527
+    }
+}
