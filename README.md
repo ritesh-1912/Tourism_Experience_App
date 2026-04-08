@@ -344,5 +344,3 @@ This project is created for educational and portfolio purposes.
 **Project Status**: ✅ Complete
 
 **Last Updated**: January 2026
-
-**Author**: Tourism Analytics Team
